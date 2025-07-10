@@ -15,4 +15,4 @@ To build an interactive dashboard in Power BI that analyzes ecommerce sales data
 - Where can the business focus to improve sales and profitability?
 
 ## Dashboard
-- <a href ="C:\Users\HP\Desktop\Projects\Power Bi Project" >Dashboard</a>
+![image alt](https://github.com/Pritamkr-22/Power-Bi-Dashboard/blob/45349a5c5867368650f6033a65c7b255e4bfd09f/Screenshot%202025-07-10%20091828.png)
