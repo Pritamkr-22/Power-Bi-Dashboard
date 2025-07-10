@@ -16,3 +16,6 @@ To build an interactive dashboard in Power BI that analyzes ecommerce sales data
 
 ## Dashboard
 ![image alt](https://github.com/Pritamkr-22/Power-Bi-Dashboard/blob/45349a5c5867368650f6033a65c7b255e4bfd09f/Screenshot%202025-07-10%20091828.png)
+
+## Final Conclusion:
+This Power BI dashboard effectively summarizes ecommerce sales data, highlighting key metrics and trends. It helps identify top-performing areas and supports data-driven business decisions.
