@@ -1,2 +1,3 @@
-# Power-Bi-Dashboard
-This is an interactive Ecommerce Sales Dashboard built using Power BI. It provides a comprehensive view of sales data, enabling deeper analysis and smarter business decisions.
+# Ecommerce Sales Dashboard using Power BI
+## Project Objective
+To build an interactive dashboard in Power BI that analyzes ecommerce sales data, helping visualize key metrics such as total sales, profit, quantity sold, and average order value across different states, payment modes, customer segments, and time periods. This empowers stakeholders to make data-driven decisions and identify business growth opportunities.
